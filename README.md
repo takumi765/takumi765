@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **takumi765/takumi765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- リポジトリステータス -->
+<!-- ソースコード統計 -->
+[![takumi765's github stats](https://github-readme-stats-henna-omega-14.vercel.app/api?username=takumi765&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/takumi765/)
+[![Top used Langs](https://github-readme-stats-henna-omega-14.vercel.app/api/top-langs/?username=takumi765&langs_count=8&count_private=true&layout=compact&theme=tokyonight)](https://github.com/takumi765/)
+
+※privateリポジトリは反映されていません
