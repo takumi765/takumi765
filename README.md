@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 [![Top used Langs](https://github-readme-stats-henna-omega-14.vercel.app/api/top-langs/?username=takumi765&langs_count=8&count_private=true&layout=compact&theme=tokyonight)](https://github.com/takumi765/)
 
 ※privateリポジトリは反映されていません
+
 ![Snake animation](https://github.com/takumi765/takumi765/blob/output/github-contribution-grid-snake.svg)
